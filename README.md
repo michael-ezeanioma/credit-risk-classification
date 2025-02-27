@@ -70,5 +70,5 @@ __Scikit-Learn:__ Provides tools for regression modeling and performance evaluat
 3. Train a logistic regression model.
 4. Evaluate model accuracy and interpret results.
 5. Review the Credit Risk Analysis Report for final recommendations.
-6. 
+   
 <!--Mod 20-->
